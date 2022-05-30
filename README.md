@@ -10,7 +10,7 @@
 
 ## ⚙️ Funcionalidades
 
-- Exemplifica um site profissional de alguma empresa;
+- Exemplifica um site profissional;
 - Mostra links e dados de atendimento;
 - Mostra um menu com diversas outras áreas do site;
 - Dispõe um slide de imagens automático e manual;
