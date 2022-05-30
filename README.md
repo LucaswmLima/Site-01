@@ -1,5 +1,5 @@
 <h1 align="center">
-    Site exemplo 01
+    Site Exemplo 01
 </h1>
 
 ## 💻 Sobre o projeto
