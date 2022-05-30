@@ -39,7 +39,7 @@
 
 ## 🚀 Como executar o projeto
 
-- Acessar o link do projeto online: https://site-01-lucas-william.netlify.app;
+- Acessar o link: https://site-01-lucas-william.netlify.app;
 - Ou executar o arquivo Index.HTML.
 
 ---
