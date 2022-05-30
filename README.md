@@ -23,16 +23,16 @@
 ## 📷 Imagens do projeto
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="NextLevelWeek" title="Screenshot 1" src="assets/git/screenshot_1.jpg" width="400px">
+  <img alt="NextLevelWeek" title="Screenshot 1" src="assets/git/Screenshot_1.jpg" width="400px">
 </p>
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="NextLevelWeek" title="Screenshot 2" src="assets/git/screenshot_2.jpg" width="400px">
+  <img alt="NextLevelWeek" title="Screenshot 2" src="assets/git/Screenshot_2.jpg" width="400px">
 </p>
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="NextLevelWeek" title="Screenshot 3" src="assets/git/screenshot_3.jpg" width="400px">
+  <img alt="NextLevelWeek" title="Screenshot 3" src="assets/git/Screenshot_3.jpg" width="400px">
 </p>
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="NextLevelWeek" title="Screenshot 4" src="assets/git/screenshot_4.jpg" width="400px">
+  <img alt="NextLevelWeek" title="Screenshot 4" src="assets/git/Screenshot_4.jpg" width="400px">
 </p>
 
 ---
