@@ -4,7 +4,7 @@
 
 ## 💻 Sobre o projeto
 
-<p>Site desenvolvido em HTML,CSS e Javascript com a utilização de diversas tecnicas das linguagens sitadas, contendo varios componentes utilizados em sites profissionais.</p>
+<p>Site desenvolvido em HTML, CSS e Javascript com a utilização de diversas tecnicas das linguagens sitadas, contendo varios componentes utilizados em sites profissionais.</p>
 
 ---
 
@@ -39,8 +39,8 @@
 
 ## 🚀 Como executar o projeto
 
-- Acessar o link do projeto online: https://site-01-lucas-william.netlify.app;
-- Ou executar o arquivo Index.HTML.
+- Acessar o link: https://site-01-lucas-william.netlify.app;
+- Ou executar o arquivo "index.html".
 
 ---
 
