@@ -4,7 +4,7 @@
 
 ## 💻 Sobre o projeto
 
-<p>Site desenvolvido em HTML, CSS e Javascript com a utilização de diversas tecnicas das linguagens sitadas, contendo varios componentes utilizados em sites profissionais.</p>
+<p>Site desenvolvido em HTML, CSS e Javascript com a utilização de diversas tecnicas das linguagens citadas, contendo varios componentes utilizados em sites profissionais.</p>
 
 ---
 
