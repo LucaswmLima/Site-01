@@ -1,5 +1,5 @@
 <h1 align="center">
-    Site Exemplo 01
+    Site HTML/CSS/JS
 </h1>
 
 ## 💻 Sobre o projeto
